@@ -308,7 +308,7 @@ form .btn2{
 
 
 
-nav .fas{
+nav .fa-solid{
     display: none;
 }
 
@@ -323,7 +323,7 @@ nav .fas{
     .header-text h1{
         font-size: 30px;
     }
-    nav .fas{
+    nav .fa-solid{
         display: block;
         font-size: 25px;
     }
@@ -342,7 +342,7 @@ nav .fas{
         display: block;
         margin: 25px;
     }
-    nav ul .fas{
+    nav ul .fa-solid{
         position: absolute;
         top: 25px;
         left: 25px;
