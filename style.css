@@ -376,3 +376,7 @@ nav .fas{
     margin-top: -5px;
     display: block;
 }
+.headingname{
+    text-decoration: none;
+    color: #61b752;
+}
